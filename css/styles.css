@@ -1,0 +1,15 @@
+.center{
+  display:block;
+  margin-left:auto;
+  margin-right: auto;
+  width:50%;
+}
+
+.bg2-show-box{
+  background-size:auto;
+  background-repeat:no-repeat;
+  background-image:
+  url(images/logo.png)image();
+  background-position:center;
+
+  }
