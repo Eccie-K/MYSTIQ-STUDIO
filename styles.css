@@ -1,0 +1,22 @@
+.welcom{
+    background-image: url("images/bg2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+.about{
+    text-align: center;
+}
+
+#serve{
+    background-image: url("images/bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
