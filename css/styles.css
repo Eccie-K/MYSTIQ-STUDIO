@@ -19,3 +19,15 @@
 .about{
   text-align: center;
 }
+
+.services{
+  background-image: url("../images/bg3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70vh;
+  color: white;
+  text-align:center;
+}
+.services{
+  padding-top: 35vh;
+}
