@@ -7,10 +7,10 @@ Delani is a web page that provides information about Delani studio,services offe
 Esther Kirui
 
 ## Languages used:
-      + HTML
-      + JavaScript
-      + CSS
-      + Jquery
+      HTML
+      JavaScript
+      CSS
+      Jquery
 
 
 ### BDD (Behaviour Driven Development)
@@ -19,12 +19,12 @@ Esther Kirui
 
 ### Set up instructions/requirements:
 
-      + Desktop/laptop computer
-      + Internet
-      + Web browser
+Desktop/laptop computer<br>
+Internet<br>
+Web browser<br>
       
 ### Access:
-+ Click: to access the page.
+Click: to access the page.
 
 
 ### Contributions:
@@ -35,11 +35,12 @@ Contributions are welcome. It is recommended that you open an issue and discuss 
 ### Contact Information:
 
 Esther Kirui
-Mobile:+254775946131
+Mobile:+254775946131<br>
 Email:estherkc100@gmail.com
 
 
 ### License and Copyright Information.
+https://github.com/Eccie-K/MYSTIQ-STUDIO/new/master
 
 
 Copyright ©2019 Esther Kirui.
