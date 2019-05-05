@@ -30,7 +30,7 @@ Esther Kirui
    Web browser<br>
       
 ### Access:
-+ Click: https://github.com/Eccie-K/MYSTIQ-STUDIO to access the page.
+Click: https://github.com/Eccie-K/MYSTIQ-STUDIO to access the page.
 
 
 ### Contributions:
