@@ -25,9 +25,9 @@ Esther Kirui
 
 ### Set up instructions/requirements:
 
-      + Desktop/laptop computer
-      + Internet
-      + Web browser
+   Desktop/laptop computer<br>
+   Internet<br>
+   Web browser<br>
       
 ### Access:
 + Click: https://github.com/Eccie-K/MYSTIQ-STUDIO to access the page.
@@ -40,13 +40,13 @@ Contributions are welcome. It is recommended that you open an issue and discuss 
 
 ### Contact Information:
 
-Esther Kirui
-Mobile:+254775946131
+Esther Kirui<br>
+Mobile:+254775946131<br>
 Email:estherkc100@gmail.com
 
 
 ### License and Copyright Information.
-https://github.com/Eccie-K/MYSTIQ-STUDIO/new/master
+https://github.com/Eccie-K/MYSTIQ-STUDIO/new/master<br>
 Copyright ©2019 Esther Kirui.
 
 
