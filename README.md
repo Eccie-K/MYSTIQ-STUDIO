@@ -1,7 +1,5 @@
 ### DELANI STUDIO  PORTFOLIO LANDING PAGE
 
-### DELANI STUDIO  PORTFOLIO LANDING PAGE
-
 Delani is a web page that provides information about Delani studio,services offered, and their product management.
 
 ### Author:
@@ -9,27 +7,19 @@ Delani is a web page that provides information about Delani studio,services offe
 Esther Kirui
 
 ## Languages used:
-      + HTML
-      + JavaScript
-      + CSS
-      + Jquery
+   HTML<br>
+   JavaScript<br>
+   CSS<br>
+   Jquery<br>
 
 
 ### BDD (Behavior Driven Development)
 
-Behavior
-Input
-Outcome
-User searches the studio’s website
-Types website URL
-Page displays on screen
-User reads through the web page
-Reading
-Gets information about the studio
-User can contact the studio
-Name and email address on the form at the bottom of the page
-A pop up acknowledging that their email has been received and that they will be responded to as soon as possible. 
-
+- User searches the studio’s website by typing the  website URL<br>
+- Page displays on screen<br>
+- User reads through the web page to get information about the studio<br>
+- User can contact the studio by entering their name and email address on the form at the bottom of the page<br.
+- A pop up acknowledging that their email has been received and that they will be responded to as soon as possible displays on the page. 
 
 
 
