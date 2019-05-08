@@ -1,20 +1,21 @@
 
 $(document).ready(function(){
-    $("#show").click(function(){
+    $(".show1").click(function(){
         $(".design").toggle("slide");
+        
     });
 });
 
 
 $(document).ready(function(){
-    $("#click").click(function(){
+    $(".show2").click(function(){
         $(".development").toggle("slide");
     });
 });
 
 
 $(document).ready(function(){
-    $("#s").click(function(){
+    $(".show3").click(function(){
         $(".product").toggle("slide");
     });
 });
